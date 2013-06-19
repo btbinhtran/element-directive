@@ -1,5 +1,9 @@
 {
   "name": "tower-element-directive",
   "version": "0.0.1",
-  "main": "./index.js"
+  "main": "./index.js",
+  "dependencies": {
+    "tower-directive": "*",
+    "tower-element": "*"
+  },
 }
